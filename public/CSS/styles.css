@@ -1,0 +1,50 @@
+/*------------------------- General ---------------------------------------*/
+
+* {
+    font-family: "ROBOTO";
+}
+
+body {
+    min-height: 100vh;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+}
+.row {
+    margin: 0;
+}
+.container-fluid {
+    padding: 0;
+}
+/*------------------------- General ---------------------------------------*/
+
+h1 {
+    font-family: "Roboto";
+}
+#navbar {
+    justify-content: space-between;
+}
+
+#navbar img {
+    width: 65px;
+}
+/* Body */
+
+/* footer */
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: cornflowerblue;
+    color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer p {
+    margin-bottom: 0;
+}
